@@ -8,3 +8,5 @@ alfred翻译工作流(阿里云机器翻译服务)
 导入后请设置环境变量中的access_key以及secret.
 
 阿里机器翻译开通地址(https://www.aliyun.com/product/ai/base_alimt)
+
+<img width="729" alt="CleanShot 2022-07-29 at 09 52 41" src="https://user-images.githubusercontent.com/28681228/181666334-6a04a9ac-2b53-450d-a117-cee11770e653.png">
